@@ -1,0 +1,7 @@
+com\omrbranch\generateJvmReport\Reporting.class
+com\omrbranch\stepdefinition\FeatureFileNameStep.class
+com\omrbranch\types\C.class
+com\omrbranch\types\A.class
+com\omrbranch\runner\TestRunnerClass.class
+com\omrbranch\types\B.class
+com\omrbranch\types\TestRunnerClass.class
